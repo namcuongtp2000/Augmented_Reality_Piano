@@ -202,7 +202,7 @@ while True:
         last_1000ms_notes = {"A": [], "B": [], "C": []}
 
     # Display the frame
-    cv2.imshow("Paper Piano", frame)
+    cv2.imshow("Augmented Reality Piano", frame)
 
     # Break the loop when 'q' key is pressed
     if cv2.waitKey(1) & 0xFF == ord('q'):
