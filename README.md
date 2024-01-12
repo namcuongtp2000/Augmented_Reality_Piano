@@ -15,7 +15,9 @@ Each note will be notated as its line prefix A,B or C and its number 1 to 61 fro
 
 The **RED** circles will play role as black keys of piano 61 keys while the **GREEN** circles represent for white keys.
 
+# Notices
 You should run this app while your camera in bright light environment to make mediapipe hands easy to detect your fingertips.
+
 # Future updates
 - Increase the sensity and accuracy from touching interacting circles.
 - Create a game to check the correct of the notes or chords in limitted time.
