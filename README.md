@@ -13,7 +13,7 @@ The highest line (**C**) can only be controled by 4.THUMB_FINGER_TIP for both ha
 Each note will be notated as its line prefix A,B or C and its number 1 to 61 from the right of screen to the left.For example, the most right note in lowest line will be notated as A1.
 ![image](https://github.com/namcuongtp2000/Augmented_Reality_Piano/assets/92356571/b3f0ebfa-9ee8-4c74-856b-fc48265a1d62)
 
-The **RED** circles will play role as black keys of piano 61 keys while the **GREEN** circles represent for white keys.
+The **RED** circles play role as black keys of piano 61 keys while the **GREEN** circles represent for white keys.
 
 # Notices
 You should run this app while your front camera in bright light environment to make mediapipe hands easy to detect your fingertips.
